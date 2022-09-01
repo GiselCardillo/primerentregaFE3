@@ -1,0 +1,40 @@
+{
+    "historias": [
+        {
+            "id": 1,
+            "historia": "Te despiertas sobresaltado por el odioso ruido del timbre. Es extraño, no recordabas que tu timbre sonara así. Abres los ojos. Son las 8.30 de la mañana, del 2 de junio de 2058, hace calor y el sol parte la tierra. Además hay un rayo de sol que está cocinando tu pie lentamente y ahora que te has despertado eres consciente de él.  \n \n  A pesar de eso, sientes que tu cuerpo es de plomo, estás cansado. Por más que intentas hacer memoria, no recuerdas por qué. Con esta pesadez te debates entre seguir durmiendo hasta que tu cuerpo quiera o bajar a abrir.",
+            "opcionUno": "Seguir durmiendo",
+            "opcionDos": "Bajar a ver quién es"
+        },
+        {
+            "id": 2,
+            "historia": "Un poco de mal humor, te levantas, te vistes con lo primero que encuentras al lado de la cama y bajas a ver quién está llamando tan insistentemente. \n \n Un chica joven te mira con una expresión entre molesta y divertida.  \n \n - ¡Por fin! - dice - ¡Vamos, sube al coche no tenemos tiempo que perder!  \n \n No tienes mucha opción, te arrastra al coche y éste se pone en marcha. En un trayecto de unos 15 minutos, completamente en silencio y confusos, llegás frente a una casa sin nada de especial. Parece una simple casa residencial.  \n \n - Nos están esperando - dice la chica señalando a un grupo de tres personas que esperan junto a la puerta.  \n \n Empiezas a ponerte nervios@. Por alguna razón todos te conocen, pero tú a ellos no...",
+            "opcionUno": "Preguntar quién eres",
+            "opcionDos": "Salir corriendo"
+        },
+        {
+            "id": 3,
+            "historia": "- Vaya - dice la chica mientras te acompaña al interior de la vivienda - parece que esta vez te está costando más volver que otras... esto empieza a ser preocupante. No te preocupes, es cuestión de tiempo que todo vuelva a tener sentido, es mejor que no lo forcemos.  \n \n Lo que parecía una casa normal, resultó ser una tapadera para unas instalaciones subterráneas de la leche. Un súper laboratorio se abre ante ti cuando bajás en un pequeño ascensor que hay junto a las escaleras enmoquetadas.  \n \n Estaban a punto de conducirte a lo que ellos llaman \"tu habitación\" pero de repente una escadalosa sirena pone a todo el mundo en tensión.  \n \n - ¿qué tenemos? - pregunta la chica a un operario que hay frente a una gran máquina.  \n \n - 8 de agosto, Tinian, Islas Marianas. Según nuestro informate en ese período, alguien está intentando asesinar al piloto del Enola Gay y evitar que se tire la bomba en Hiroshima al día siguiente  \n \n - ¡Pero la bomba atómica supuso el final de la Segunda Guerra Mundial!, si no la tiran quién sabe qué más podría haber pasado... no tenemos tiempo que perder, vámonos, te dice la chica-  \n \n Estás muy sorprendido, la verdad. No entiendes nada. \n \n - Te lo explico por el camino, no hay tiempo para vueltas suaves.",
+            "opcionUno": "Vamos, no sé de qué habla, pero parece importante",
+            "opcionDos": "Ni hablar, yo me quedo, esta gente está loca"
+        },
+        {
+            "id": 4,
+            "historia": "A pesar de tu actitud, nadie se extraña. Te tratan con amabilidad y te conducen a lo que ellos llamaron \"tu habitación\".  \n \n Nada más cruzar la puerta, una foto tuya con tu amiga Liz azota tu memoria. Los recuerdos se agolpan, en desorden. Pero ya todo está claro.  \n \n - ¡Mi diario!, ¿Dónde está mi diario? - dices en voz alta, aunque sólo estás tú ahí.  \n \n - Tengo que apuntarlo todo antes de que algo se pierda para siempre... \n \n De repente, dos golpes cortos en la puerta te sacan de tu estado de obsesión por un momento. Es Liz.  \n \n - Eh, me alegro de que hayas vuelto por fin. Imagino que estás con la rutina del diario, pero no tenemos tiempo para eso. Acaba de saltar la alarma de alteración temporal en 1933. Si no nos vamos ya, puede que la historia cambie para siempre.  \n \n Las urgencias temporales son así, si te despistas puede que sea demasiado tarde para volver y arreglarlo, porque tu realidad quizás no tenga tecnología para viajar en el tiempo debido a los cambios. Pero por otro lado, si no haces la rutina del diario, sabes que olvidarás todo lo que pasó en la última misión. Los viajes temporales, nunca fueron gratis.",
+            "opcionUno": "Atender la alerta temporal, parece importante",
+            "opcionDos": "Hacer la rutina del diario, puede que lo que pasó sea vital para siguientes misiones"
+        },
+        {
+            "id": 5,
+            "historia": "Como imaginabas, un loco quería atrapar a Hitler mientras pintaba unos cuadros en la calle. Lo detuviste a tiempo, afortunadamente para la integridad temporal. Aunque no tienes claro que lo sea también para la humanidad. \n \n Vaya si habría cambiado la historia si hubieran atrapado a Hitler... a veces te preguntas si haces bien en preservar la historia. Hay días que lo ves claro. Otros días no tanto... hoy era uno de ellos. Mientras Liz se lleva al detenido a las dependencias de la policía germana, reflexionas en silencio. Recuerdas que esta es tu última misión. Nadie lo sabe.  \n \n Si vuelves, jamás recuperarás tus recuerdos. Vivirás muchos años, no necesitarás trabajar, tu pensión del gobierno temporal secreto te asegura una cómoda jubilación (con 35 años).  \n \n Sin embargo, no sabrás quién eres, no reconocerás a tus amigos, ni a tu familia, ni tan si quiera a tu perro (que está ahora con tus padres). No tendrás raíces, ni un país, ni sentirás jamás que perteneces a ningún sitio. Tendrías que empezar una vida nueva, como si volvieras a nacer, pero solo. Además, el Gobierno Temporal no te dejará acceder a tu vida anterior, por lo que tampoco podrás reconstruir tu memoria. El protocolo es muy estricto con el Síndrome Memorístico Intertemporal.  \n \n O puedes quedarte y vivir con tus recuerdos en el Berlín de 1933. Sabes lo que va a pasar, pero no debes cambiar la historia. Si decides quedarte, tendrás que ser muy cauto y esconderte del Ministerio para que no te atrapen.",
+            "opcionUno": "Volver y empezar una vida solo.",
+            "opcionDos": "Quedarte en Berlín de 1933 e intentar no cambiar la historia."
+        },
+        {
+            "id": 6,
+            "historia": "Cuando Liz vuelve de las dependencias policiales y te señala el camino para volver. La miras en silencio y niegas con la cabeza. No le habías dicho nada, pero ya son muchos años trabajando juntos. Ha visto en primera línea tu deteriorio. Con solo cruzar la mirada, entiende lo que tiene que hacer. Sin detenerse más tiempo del necesario para no llamar la atención, asiente con la cabeza y se va hacia el punto de extracción. Tendrá que inventarse una historia creíble de que has desaparecido o, mejor aún, que te han matado. Al Ministerio Temporal no le gusta tener gente contemporánea merodeando por la historia. Las consencuencias pueden ser tremendas. \n \n Quizás algún día te vuelvas a cruzar con ella, si está en una misión en tu línea. Y podrás agradecerle el favor, si es que no se dan cuenta. No sólo tú pagarás el precio de quedarte en Berlín aferrado a tus recuerdos. Quizás ella podría ser descubierta y encarcelada por cómplice por Obstrucción a la Justicia Intertemporal. \n \n Cuando Liz desaparece en el destello, te saluda con la mano, con una sonrisa y una mirada triste. Respiras profundamente y piensas qué harás de ahora en adelante. Tienes una gran ventana: conoces la historia. Lo que viene pronto es una guerra y no quieres estar Alemania cuando estalle.",
+            "opcionUno": "Fin",
+            "opcionDos": "Fin"
+        }
+    ]
+}

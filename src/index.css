@@ -1,0 +1,55 @@
+h1{
+  border: dotted;
+}
+
+.active {
+  display: block;
+}
+
+.inactive {
+  display: none;
+}
+
+.story {
+  border: outset;
+  padding: 5px;
+}
+
+.tituloSeleccion {
+  font-weight: bold;
+}
+
+.greenText {
+  color: forestgreen;
+}
+
+.redText {
+  color: orangered;
+}
+
+.buttonContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.blueButton {
+  background-color: midnightblue;
+}
+
+.pinkButton {
+  background-color: indianred;
+}
